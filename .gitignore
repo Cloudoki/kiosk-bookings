@@ -41,6 +41,3 @@ dist
 
 #storybook static files
 docs
-
-# Configs
-src/constants/global.js
